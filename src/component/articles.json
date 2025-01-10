@@ -1,0 +1,37 @@
+[
+  { 
+    "id": 1,
+    "name": "Amr", 
+    "title": "Front-End", 
+    "section": "Web Development", 
+    "content": "HTML, CSS, JS, React.js" 
+  },
+  { 
+    "id": 2, 
+    "name": "Elzero", 
+    "title": "Full-Stack", 
+    "section": "Web Development", 
+    "content": "HTML, CSS, JS, React.js, PHP, Laravel" 
+  }, 
+  { 
+    "id": 3, 
+    "name": "Osama", 
+    "title": "Back-End", 
+    "section": "Web Development", 
+    "content": "JS, Node.js" 
+  }, 
+  { 
+    "id": 4, 
+    "name": "Ahmed", 
+    "title": "Android", 
+    "section": "Mobile Development", 
+    "content": "Kotlin" 
+  }, 
+  { 
+    "id": 5,
+    "name": "Ali", 
+    "title": "IOS", 
+    "section": "Mobile Development", 
+    "content": "Swift" 
+  }
+]
